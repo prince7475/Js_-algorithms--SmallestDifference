@@ -1,6 +1,6 @@
 
 const chai = require('chai')
-const program = require('./SmallestDifference')
+const program = require('./SecondGo')
 
 describe('Three sums', function () {
 
